@@ -1,4 +1,4 @@
-BIN=helloworld
+BIN=simplehttp
 
 all: bin/$(BIN)
 
